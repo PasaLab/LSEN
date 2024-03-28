@@ -41,7 +41,7 @@ python main.py -d GDELT --history-len 3 --lambdax 2.0 --graph-layer 2
 
 ## Optional arguments
 
-```bash
+```
 --dataset			the dataset to use (YAGO, WIKI, ICEWS18, ICEWS14, or GDELT)
 --device			the device to use
 --batch-size 		batch size
